@@ -30,6 +30,11 @@ const songs = [
     displayName: "Feel Around You",
     artist: "Sezar",
   },
+  {
+    name: "metric-1",
+    displayName: "Feel The Chill",
+    artist: "FarhanIshtiyak",
+  },
 ];
 
 // Play Function
